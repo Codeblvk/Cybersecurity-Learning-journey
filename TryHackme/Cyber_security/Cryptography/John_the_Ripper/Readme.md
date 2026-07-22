@@ -289,3 +289,13 @@ Validate results
 - Rule-Based Attacks
 - Password Recovery
 - Security Assessment
+
+## Defensive Perspective
+
+Understanding password cracking techniques helps defenders:
+
+- Audit password strength.
+- Identify weak password policies.
+- Enforce password complexity requirements.
+- Detect accounts vulnerable to offline password attacks.
+- Promote the use of long, unique passwords and MFA.
